@@ -1,0 +1,15 @@
+E:\My Documents\Хикка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\My Documents\Хикка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\My Documents\Хикка\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1_LogIn.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2_LogInKvart.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3_KvartPlatit.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4_LogInSotr.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5_SotrAddRedactTrans.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6_MoneyPlusMinus.resources
+E:\My Documents\Хикка\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7_Man.resources
